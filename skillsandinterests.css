@@ -1,0 +1,141 @@
+
+.skillsandinterestsheader {
+  font-family: Rajdhani; 
+  font-size: 80px; 
+}
+
+.backarrow {
+  display: inline-block;
+  margin-right: 300px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+  transition: opacity 1s;
+}
+.backarrow:hover {
+  opacity: 0.5;
+  cursor:pointer;
+}
+
+.skillsandinterests {
+  display: inline-block;
+  height: 10px;
+}
+
+.line {
+  font-weight: bold;
+  margin-left: 100px; 
+  font-size: 40px;
+}
+
+.CAD {
+  font-family: Garamond; 
+  text-align: center;
+  width: 700px;
+  display: inline-block;
+  margin-left:120px;
+}
+
+.CADtitle {
+  font-size: 50px;
+}
+.CADdescr {
+  font-size: 20px;
+}
+.CADref1, CADref2 {
+  font-size: 20px;
+}
+.CADref2 {
+  font-size: 20px;
+  color: black;
+  transition: opacity 1s;
+}
+.CADref2:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.CADimg {
+  display:inline-block;
+  height:300px;
+  margin-left: 20px;
+}
+
+.printing {
+  margin-top: 40px; 
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.biox6 {
+  object-fit: cover;
+  object-position:center;
+  width: 300px;
+  height: 400px; 
+}
+.gelma {
+  object-fit: cover;
+  object-position:center;
+  width: 300px;
+  height: 400px; 
+}
+
+.fabrication {
+  font-size: 20px;
+  display: inline-block;
+  width: 600px;
+  margin-left: 40px;
+  text-align: center;
+  vertical-align: top;
+  line-height: 25px;
+  font-family: garamond;
+}
+
+.fabricationheader {
+  font-size: 50px;
+  line-height:40px;
+}
+
+.researchpaper {
+  color: black;
+  transition: opacity 1s;
+}
+.researchpaper:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.horticulture {
+  font-size: 20px;
+  display: inline-block;
+  width: 600px;
+  margin-left: 120px;
+  text-align: center;
+  vertical-align: top; 
+  line-height: 25px;
+  font-family: garamond;
+}
+
+.horticultureheader {
+  font-size: 50px;
+  margin-top: 120px;
+}
+
+.horticultureimgs {
+  display:inline-block;
+}
+
+.chinesemoney {
+  object-fit: cover;
+  object-position:center;
+  width: 300px;
+  height: 400px;
+  display:inline-block
+}
+.jamesplant {
+  object-fit: cover;
+  object-position:center;
+  width: 300px;
+  height: 400px;
+  display:inline-block;
+}

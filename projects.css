@@ -1,0 +1,105 @@
+.projectsheader {
+  font-family: Rajdhani;
+  font-size: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 10px;
+  margin-bottom: 0px;
+}
+
+.backarrow {
+  display: inline-block;
+  margin-right: 470px;
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+  transition: opacity 1s;
+}
+.backarrow:hover {
+  opacity: 0.5;
+}
+
+.projects {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.line {
+  font-weight: bold;
+  margin-left: 100px; 
+  font-size: 40px;
+  line-height: 10px;
+}
+
+.coding {
+  font-family: garamond; 
+  font-size: 20px;
+  display: inline-block; 
+  width: 700px;
+  margin-left: 120px;
+  text-align: center; 
+}
+
+.codingheader {
+  font-size: 50px;
+}
+
+.checkout2 {
+  display:inline-block; 
+}
+
+.htmlfileslink {
+  text-decoration: none; 
+  color: rgb(31, 140, 164); 
+  transition: opacity 0.5s; 
+  font-weight: bold; 
+}
+.htmlfileslink:hover {
+  cursor: pointer;
+  opacity: 0.5; 
+}
+
+.htmlimg {
+  width: 500px;
+  margin-left: 20px;
+}
+
+.photobox {
+  height: 350px;
+  margin-left: 140px;
+  margin-top: 80px;
+}
+
+.simplysickle {
+  font-family: garamond; 
+  font-size: 20px;
+  display: inline-block; 
+  width: 700px;
+  margin-left: 120px;
+  text-align: center; 
+  vertical-align: top;
+}
+
+.simplysickleheader1 {
+  font-size: 50px;
+}
+.simplysickleheader2 {
+  font-size: 30px;
+}
+
+.checkout1, checkout2 {
+  display:inline-block;
+}
+
+.simplysicklelink {
+  display: inline-block;
+  text-decoration: none; 
+  color: rgb(31, 140, 164); 
+  transition: opacity 0.5s; 
+  font-weight: bold; 
+}
+
+.simplysicklelink:hover {
+  cursor: pointer;
+  opacity: 0.5; 
+}

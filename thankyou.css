@@ -1,0 +1,25 @@
+.thanks {
+  text-align: center;
+  font-family: Rajdhani;
+  Font-size:100px;
+  background-color:rgb(105, 100, 80);
+  color: white; 
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 300px;
+}
+
+.back {
+  display:inline-block;
+  text-align: center;
+}
+
+.backtomypage {
+  font-size: 30px;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  display: inline-block;
+  font-family: Rajdhani;
+  margin-top: 200px;
+}

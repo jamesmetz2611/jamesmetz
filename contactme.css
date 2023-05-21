@@ -1,0 +1,129 @@
+body {
+  background-color:rgb(183, 183, 183);
+}
+
+.contactmeheader {
+  font-family: Rajdhani;
+  font-size: 80px;
+  background-color: rgb(105, 100, 80);
+  color: rgb(183, 183, 183);
+  border-radius: 8px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+.jamesarmyimgdiv {
+  display: inline-block;
+}
+
+.jamesarmyimg {
+  width: 500px;
+  height: 500px;
+  border-radius: 400px;
+  object-fit: cover;
+  object-position:center;
+  margin-left: 100px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.contactmebody {
+  display:inline-block;
+  vertical-align:top;
+  text-align: center;
+  margin-top: 70px;
+  margin-left:75px;
+}
+
+.letsstartaconversation {
+  font-family: Garamond;
+  display: inline-block;
+  font-size:50px;
+
+}
+
+.firstandlast {
+  display:block;
+  font-size:20px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 40px;
+  border-radius:20px;
+}
+
+.senderemail {
+  display:block;
+  font-size:20px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 40px;
+  border-radius:20px;
+}
+
+.tellmeaboutyou {
+  display:block;
+  font-size:20px;
+  width: 700px;
+  height: 40px;
+  border-radius:20px;
+}
+
+.sendbutton {
+  margin-top: 20px;
+  height: 40px;
+  width: 100px;
+  font-family: Rajdhani;
+  font-size: 30px;
+  background-color: rgb(105, 100, 80);
+  color: white;
+  border-radius: 20px;
+  transition: opacity 0.7s;
+}
+
+.sendbutton:hover {
+  opacity: 0.6;
+  cursor:pointer;
+}
+
+.backarrow {
+  font-size: 50px;
+  color:black;
+  font-weight:bold;
+  text-decoration: none;
+  transition: color 1s;
+  padding: 10px 40px;
+  display: block;
+  width: 50px;
+}
+
+.backarrow:hover {
+  color: white;
+}
+
+.email {
+  text-decoration: underline; 
+  cursor: pointer; 
+  display: inline-block; 
+  color: black;
+}
+.contact-info {
+  text-align: center;
+  display: inline-block; 
+  margin-top:0px;
+}
+.linkedin-link {
+  display: inline-block; 
+}
+.contact {
+  text-align: center;
+  font-family: Rajdhani;
+  font-size: 20px;
+  color: black; 
+  background-color: grey;
+  padding-top: 0%;
+  padding-bottom:0px;
+  margin-top:60px;
+  border-radius: 5px;
+}

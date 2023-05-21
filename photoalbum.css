@@ -1,0 +1,83 @@
+
+
+.photosheader {
+  font-family: Rajdhani;
+  font-size: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.backarrow {
+  display: inline-block;
+  margin-right: 470px;
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+  transition: opacity 1s;
+}
+.backarrow:hover {
+  opacity: 0.5;
+}
+
+.photos {
+  display: inline-block;
+
+}
+
+.jamesbrothers {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+  margin-left: 30px;
+}
+.jamesjayla {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
+.jamesmae {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
+.jamesoliver {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+  margin-left: 30px;
+}
+.jamesregina {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
+.jameshumvee {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
+.staffpic {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+  margin-left: 30px;
+}
+.jamescat {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
+.jamesarmy {
+  width: 450px;
+  height:400px;
+  object-fit: cover;
+  object-position:center;
+}
